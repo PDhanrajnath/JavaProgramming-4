@@ -1,0 +1,32 @@
+
+g
+java:S1192l"LDefine a constant instead of duplicating this literal ", expected " 3 times.(òÂ’£ýÿÿÿÿ
+o
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(¥•¦²
+J
+java:S6212#"/Declare this local variable with "var" instead.(Þ·Ðâùÿÿÿÿ
+J
+java:S6212$"/Declare this local variable with "var" instead.(°‰ëæúÿÿÿÿ
+Q
+java:S6212D"/Declare this local variable with "var" instead.(íò…­ÿÿÿÿÿ8‹ï˜¢¤/
+]	java:S125C"<This block of commented-out lines of code should be removed.(Ï–›ûÿÿÿÿ8‹ï˜¢¤/
+Q
+java:S6212E"/Declare this local variable with "var" instead.(¯¸Äùÿÿÿÿ8‹ï˜¢¤/
+Q
+java:S6212F"/Declare this local variable with "var" instead.(ÐßŽ¼ùÿÿÿÿ8Œï˜¢¤/
+Q
+java:S6212H"/Declare this local variable with "var" instead.(øðú«ùÿÿÿÿ8ï˜¢¤/
+X	java:S125V"<This block of commented-out lines of code should be removed.(æ¹µ8Žï˜¢¤/
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(˜Šèõûÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ß¾×ÿúÿÿÿÿ
+D
+java:S6212f"/Declare this local variable with "var" instead.(ŒŒîz
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(®µóÏ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(•¡ìÊùÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(¥ÌÊ‚
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(²Ãñûýÿÿÿÿ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ÇðÈ”
+O
+java:S3400˜"9Remove this method and declare a constant for this value.(¡ð¬
+N
+java:S1135–"2Complete the task associated to this TODO comment.(¢ØÃŠúÿÿÿÿ

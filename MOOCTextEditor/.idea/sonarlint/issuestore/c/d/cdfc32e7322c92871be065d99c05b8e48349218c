@@ -1,0 +1,35 @@
+
+u
+java:S1149J"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®ß£•
+W
+java:S1854"<Remove this useless assignment to local variable "textfile".(´‰€Ûúÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "trials".(Þ¨²
+E
+java:S6212"/Declare this local variable with "var" instead.(Þ¨²
+J
+java:S6212"/Declare this local variable with "var" instead.(´‰€Ûúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(œÊçƒúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Þ÷–‡ûÿÿÿÿ
+E
+java:S6212#"/Declare this local variable with "var" instead.(€þîÄ
+H
+java:S1135%"2Complete the task associated to this TODO comment.(ÎÊÜ•
+E
+java:S6212J"/Declare this local variable with "var" instead.(®ß£•
+E
+java:S6212L"/Declare this local variable with "var" instead.(›³ÆÆ
+J
+java:S6212M"/Declare this local variable with "var" instead.(¥›þœúÿÿÿÿ
+E
+java:S6212N"/Declare this local variable with "var" instead.(€ï¶â
+E
+java:S6212P"/Declare this local variable with "var" instead.(æÕ¿¼
+M	java:S106V"9Replace this use of System.out or System.err by a logger.(êž¾g
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+A
+java:S1481"+Remove this unused "trials" local variable.(Þ¨²
+H
+java:S1481"-Remove this unused "textfile" local variable.(´‰€Ûúÿÿÿÿ
